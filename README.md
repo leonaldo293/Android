@@ -7,7 +7,7 @@
     
   <strong>"Good morning, Amazing people!" 🌞</strong><br/>
   Welcome to my GitHub profile!
-  ***flutter and dart******
+  <strong>flutter and dart</strong>
 </p>
 
 ---
