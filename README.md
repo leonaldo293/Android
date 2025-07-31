@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <h2>  flutter and dart </h2>
+    <p>  flutter and dart </p>
   <strong>"Good morning, Amazing people!" 🌞</strong><br/>
   Welcome to my GitHub profile!
 </p>
