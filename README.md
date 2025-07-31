@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">Hey there! I'm Leonilde da Silva Mendes </h1>
-<center>
+<center align="center">
   <h2>  flutter and dart </h2>
 </center>
 
