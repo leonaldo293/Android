@@ -1,11 +1,10 @@
 ---
 
 <h1 align="center">Hey there! I'm Leonilde da Silva Mendes </h1>
-<center align="center">
-  <h2>  flutter and dart </h2>
-</center>
+
 
 <p align="center">
+    <h2>  flutter and dart </h2>
   <strong>"Good morning, Amazing people!" 🌞</strong><br/>
   Welcome to my GitHub profile!
 </p>
